@@ -12,7 +12,7 @@ export default function AboutLayout({
 }>) {
     return (
         <section style={{background:'green'}}>
-            <p>Navbar</p>
+            Nima gapla ishla qaley bo'lyaptimi
             {children}
         </section>
     );
